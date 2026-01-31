@@ -1,2 +1,1 @@
-# Turn-Based-Pokemon-Game
-JAVA
+# Turn-Based-Pok-mon-Game
